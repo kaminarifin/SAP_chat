@@ -1,6 +1,6 @@
 ---
 applications:
-- name: chat
+- name: chat1
   host: P2000397970-chat
   path: .
   memory: 128M
